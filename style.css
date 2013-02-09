@@ -99,7 +99,7 @@ body {
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
 .ie {background: url(http://dvdspindoctor.typepad.com/.a/6a00d8341c55bb53ef01156fd35aa7970b-200wi) no-repeat; background-size: contain;}
-.fx {background: url(http://images4.fanpop.com/image/photos/24400000/Ariel-and-Eric-ariel-and-eric-24491663-236-270.jpg) no-repeat; background-size: contain;}
+.fx {background: url(http://data.whicdn.com/avatars/1253624/flynn_and_rapunzel_thumb.png?1314772696) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
 .op {background: url(./images/op.png) no-repeat; background-size: contain;}
