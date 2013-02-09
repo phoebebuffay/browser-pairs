@@ -98,7 +98,7 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://images2.layoutsparks.com/1/89242/mickey-mouse-requested-cartoon.jpg) no-repeat; }
+.ie {background: url(http://images5.fanpop.com/image/photos/25400000/Ariel-and-Eric-ariel-and-eric-25464854-534-607.jpg) no-repeat; }
 .fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
